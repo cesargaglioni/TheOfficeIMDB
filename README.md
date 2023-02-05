@@ -1,5 +1,7 @@
 # Análise dos episódios de "The Office"
 
+![Personagens de The Office](the-office-metaverso.jpeg)
+
 Este relatório coletou dados de todos os episódios de "The Office" utilizando um scraping do IMDB. 
 
 Foi constatado que quanto mais avaliações um episódio tinha, maior era a nota. Essa relação foi explicitada no R² que está dentro do arquivo.
