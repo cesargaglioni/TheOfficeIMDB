@@ -8,6 +8,10 @@ Foi constatado que quanto mais avaliações um episódio tinha, maior era a nota
 
 ![Gráfico mostrando a relação entre número de votos e votantes](Regressao.jpeg)
 
+# Mapa de calor dos episódios
+
+![Mapa de calor dos episódios](Ratings_episodios.png)
+
 # Sobre "The Office"
 
 "The Office" é uma série de comédia de televisão americana criada por Greg Daniels e Michael Schur. A série se passa em uma empresa fictícia, a Dunder Mifflin, e acompanha o dia a dia dos funcionários, incluindo o chefe Michael Scott e seus colegas de trabalho. A série é conhecida por sua abordagem única e hilária da vida corporativa, combinada com personagens carismáticos e relacionamentos amorosos.
